@@ -1,12 +1,13 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/C4D16AQGD3z4FeorB9Q/profile-displaybackgroundimage-shrink_350_1400/0/1605576664306?e=1709164800&v=beta&t=ip3Tpd98IFtykvNEJyd01KvSxE_V_7DYaj_o1jFHvZg" />
 
 # Olá eu sou Bruno Henrique
-Economista formado pela Federal de Alagoas e Graduando em Ciência de dados pela Fatec Rubens Lara
+- Economista formado pela Federal de Alagoas,
+- Graduando em Ciência de dados pela Fatec Rubens Lara.
 
 ## Atualmente Desenvolvo Pesquisas na área de otimização.
  - Análise envoltória dos Dados,
  - Modelos de Markowitz.
-</div>
+
 
 ### My Skills
 <div style="display: inline_block"><br>
