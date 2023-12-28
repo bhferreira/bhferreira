@@ -23,7 +23,7 @@ Economista formado pela Federal de Alagoas e Graduando em Ciência de dados pela
 ### Contacts
 
 <div>
-  <a href="linkedin.com/in/bruno-henrique-alves-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-henrique-alves-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.bruno.henrique84@outlook.com"><img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook_260px_RE3axj8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain" target="_blank"></a>
    
   
