@@ -8,7 +8,12 @@
  - Análise envoltória dos Dados,
  - Modelos de Markowitz.
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bhferreira&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-bhferreira.vercel.app/api/top-langs/?username=bhferreira&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
+ 
 ### My Skills
 <div style="display: inline_block"><br>
    <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
