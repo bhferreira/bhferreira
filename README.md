@@ -11,6 +11,8 @@ Economista formado pela Federal de Alagoas e Graduando em Ciência de dados pela
    <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Bruno-Git" height="30" width="60" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ### Workstation Tools:
    <img align="center" alt="Bruno-Python" height="30" width="60" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
    <img align="center" alt="Bruno-Git" height="50" width="60" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png">
